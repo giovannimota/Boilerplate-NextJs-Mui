@@ -1,14 +1,10 @@
 import * as S from './styles'
 
-export type HomePageProps = {
-  title: string
-  description: string
-}
-const HomePage = ({ title, description }: HomePageProps) => (
+const HomePage = () => (
   <S.Wrapper>
-    <S.Title>{title}</S.Title>
+    <S.Title>Home</S.Title>
     <br />
-    <S.Description>{description}</S.Description>
+    <S.Description>Bem-vindo ao Boilerplate</S.Description>
   </S.Wrapper>
 )
 

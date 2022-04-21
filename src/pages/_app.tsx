@@ -9,7 +9,7 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <ThemeProvider theme={theme}>
         <Head>
-          <title>react Avançado - Boilerplate</title>
+          <title>Boilerplate - Giovanni</title>
           <link rel="shortcut icon" href="/img/icon-512.png" />
           <link rel="aple-touch-icon" href="/img/icon-512.png" />
           <link rel="manifest" href="/manifest.json" />
@@ -26,3 +26,7 @@ function App({ Component, pageProps }: AppProps) {
 }
 
 export default App
+
+/*
+  Criar componente:   yarn generate <Nome do componente>
+*/

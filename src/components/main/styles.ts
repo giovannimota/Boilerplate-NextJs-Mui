@@ -1,8 +1,9 @@
 import styled from 'styled-components'
 import DialogTitle from '@mui/material/DialogTitle'
+import theme from 'styles/theme'
 
 export const Wrapper = styled.main`
-  background-color: #06092b;
+  background-color: ${theme.colors.primary};
   color: #fff;
   width: 100%;
   height: 100vh;
