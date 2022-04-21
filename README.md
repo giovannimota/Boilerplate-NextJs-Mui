@@ -142,9 +142,9 @@ $ git clone <URL copiada>
  ```
 $ yarn ou npm install
 ```
-* Você pode iniciar o projeto com esse comando que ele irá clonar e instalar as dependências automaticamente ```yarn create next-app -e https://github.com/AlanVidalll/Boilerplate-React-NextJS <Nome projeto>```.
+* Você pode iniciar o projeto com esse comando que ele irá clonar e instalar as dependências automaticamente ```yarn create next-app -e https://github.com/GiovanniMota/Boilerplate-React-NextJS <Nome projeto>```.
 ```
-$ yarn create next-app -e https://github.com/AlanVidalll/Boilerplate-NextJs-Mui <Nome projeto>
+$ yarn create next-app -e https://github.com/GiovanniMota/Boilerplate-NextJs-Mui <Nome projeto>
 ```
 
 
